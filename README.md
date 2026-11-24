@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0000,100:c62828&height=220&section=header&text=Omar%20Yeslm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Cybersecurity%20and20AI%20Engineer&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0000,100:c62828&height=220&section=header&text=Omar%20Yeslm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Cybersecurity%20and%20AI%20Engineer&descAlignY=58&descSize=18" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C62828&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Omar+from+Aden%2C+Yemen;3rd-year+IT+student+at+University+of+Aden;Building+projects+step+by+step;Learning+C%2B%2B+%7C+Web+%7C+Networks+%7C+AI" alt="typing" />
 
